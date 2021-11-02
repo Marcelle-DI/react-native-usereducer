@@ -1,5 +1,9 @@
-# react-native-usereducer
+# React Native Expo CRUD App
 
-## A react-native mobile app using the UseReducer hook.
+## A ToDo mobile app using the following hooks:
 
-[Based on this article](https://medium.com/nerd-for-tech/make-todo-list-application-using-react-native-expo-for-ios-and-android-device-1de436168f86)
+- useReducer
+- useContext
+- useState
+
+[Based on this MEDIUM.COM article](https://medium.com/nerd-for-tech/make-todo-list-application-using-react-native-expo-for-ios-and-android-device-1de436168f86)
