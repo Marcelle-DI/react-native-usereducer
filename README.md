@@ -1,6 +1,6 @@
 # React Native Expo CRUD App
 
-## A ToDo mobile app using the following hooks:
+## A ToDo mobile app implimenting the following hooks:
 
 - useReducer
 - useContext
